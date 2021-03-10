@@ -30,6 +30,7 @@ const PaginaArticulos =({data}) => (
 export default PaginaArticulos
 */
 
+
 //FORMA2 static queryç
 const PaginaArticulos =({data}) => (
 <StaticQuery
